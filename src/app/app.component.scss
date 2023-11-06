@@ -1,0 +1,26 @@
+form {
+    width: 300px;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: lightcyan;
+}
+
+.form-element{
+    margin: 10px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin: 5px 0;
+    width: 100%;
+}
+
+button {
+    display: block;
+    margin: auto;
+    font-size: 16px;
+}
